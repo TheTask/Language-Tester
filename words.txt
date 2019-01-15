@@ -1,0 +1,200 @@
+To go
+aller
+I go
+je vais
+You go (sg)
+tu vas
+He goes
+il va
+She goes
+elle va
+We go
+nous allons
+You go (pl)
+vous allez
+They go (m)
+ils vont
+They go (f)
+elles vont
+To speak
+parler
+I speak
+je parle
+You speak (sg)
+tu parles
+He speaks
+il parle
+She speaks
+elle parle
+We speak
+nous parlons
+You speak (pl)
+vous parlez
+They speak (m)
+ils parlent
+They speak (f)
+elles parlent
+To be
+être
+I am
+je suis
+You are (sg)
+tu es
+He is
+il est
+She is
+elle est
+We are
+nous sommes
+You are (pl)
+vous êtes
+They are (m)
+ils sont
+They are (f)
+elles sont
+To have
+avoir
+I have
+j'ai
+You have (sg)
+tu as
+He has
+il a
+She has
+elle a
+We have
+nous avons
+You have (pl)
+vous avez
+They have (m)
+ils ont
+They have (f)
+elles ont
+To think
+penser
+I think
+je pense
+You think (sg)
+tu penses
+He thinks
+il pense
+She thinks
+elle pense
+We think
+nous pensons
+You think (pl)
+vous pensez
+They think (m)
+ils pensent
+They think (f)
+elles pensent
+To love
+aimer
+To adore
+adorer
+To finish
+finir
+To study
+étudier
+To call oneself
+s'appeler
+I call myself
+je m'appelle
+You call yourself
+tu t'appelles
+He calls himself
+il s'appelle
+She calls herself
+elle s'appelle
+We call ourselves
+nous nous appelons
+You call yourselves
+vous vous appelez
+They call themselves
+elles s'appellent
+To prefer
+préférer
+I prefer
+je préfère
+You prefer (sg)
+tu préfères
+He prefers
+il préfère
+She prefers
+elle préfère
+We prefer
+nous préférons
+You prefer (pl)
+vous préférez
+They prefer (m)
+ils préfèrent
+They prefer (f)
+elles préfèrent
+Funny (sg m)
+drôle
+Funny (sg f)
+drôle
+Funny (pl m)
+drôles
+Funny (pl f)
+drôles
+Lazy (sg m)
+paresseux
+Lazy (sg f)
+paresseuse
+Lazy (pl m)
+paresseux
+Lazy (pl f)
+paresseuses
+Hard-working (sg m)
+travailleur
+Hard-working (sg f)
+travailleuse
+Hard-working (pl m)
+travailleurs
+Hard-working (pl f)
+travailleuses
+Zero
+zéro
+One
+un
+Two
+deux
+Three
+trois
+Four
+quatre
+Five
+cinq
+Six
+six
+Seven
+sept
+Eight
+huit
+Nine
+neuf
+Ten
+dix
+Eleven
+onze
+Twelve
+douze
+Thirteen
+treize
+Fourteen
+quatorze
+Fifteen
+quinze
+Sixteen
+seize
+Seventeen
+dix-sept
+Eighteen
+dix-huit
+Nineteen
+dix-neuf
+Twenty
+vingt
+Thirty
+trente
